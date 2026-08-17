@@ -5,7 +5,7 @@ shopping session ends in a purchase, and serves them through a small Streamlit
 web app where you can upload test data, pick a model, and see how it performs.
 
 - **GitHub repository:** https://github.com/vipinkumar29/online-shopping-intention-ml
-- **Live Streamlit app:** _<add link after deploying on Streamlit Community Cloud>_
+- **Live Streamlit app:** https://online-shopping-intention-ml-fxzhhvgvc3j3iufkxv8zap.streamlit.app/
 
 ## a. Problem statement
 
